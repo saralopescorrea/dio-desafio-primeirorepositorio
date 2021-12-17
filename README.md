@@ -6,4 +6,5 @@
 * git clone
 * git push
 * git pull
-#### Além disso, pude aplicar conhecimentos da aula de **Markdown**.
+#### Além disso, pude aplicar alguns conhecimentos da aula de *Markdown*.
+
